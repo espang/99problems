@@ -9,4 +9,4 @@ https://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-N
 https://ocaml.org/learn/tutorials/99problems.html
 
 ## Prolog
-https://sites.google.com/site/prologsite/prolog-problems/1
+https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/
